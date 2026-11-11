@@ -1,5 +1,8 @@
 # 🍽️ DishCraft – Recipe Website
 
+## 🌐 Live Demo
+[View DishCraft Live Website](https://rishikathallapally.github.io/dishcraft/)
+
 DishCraft is a simple and responsive recipe website built using HTML and CSS. It brings together delicious homemade recipes with ingredients, cooking instructions, and preparation tips.
 
 ## 🌟 Features
